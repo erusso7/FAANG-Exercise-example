@@ -1,6 +1,6 @@
 # Software Engineer interview exercise (FAANG)
 
-####_Given a list of integers and considering them as the heights of a graph of bars, calculate how much 'water' can fit in._
+#### _Given a list of integers and considering them as the heights of a graph of bars, calculate how much 'water' can fit in._
 
 To understand the question, let's use an image, it will be clearer
 
