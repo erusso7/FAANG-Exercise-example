@@ -36,8 +36,8 @@ Checkout the `answer` branch if you want to see this implementation.
 git checkout answer
 ```
 
-The second one (provided by [@joanlopez](https://github.com/joanlopez)) is faster because it uses 2 auxiliary arrays to store the maximum values for each position, son the space complexity is 3.N => N.
-However, as it's iterating 3 times over the input array, the time complexity is reduce to 3.N => <b>O(n) = n</b>
+The second one (provided by [@joanlopez](https://github.com/joanlopez)) is faster because it uses 2 auxiliary arrays to store the maximum values for each position, so the space complexity is 3.N => N.
+However, as it's iterating 3 times over the input array, the time complexity is reduced to 3.N => <b>O(n) = n</b>
 
 Checkout the `answer-2` branch if you want to see this implementation.
 ```
